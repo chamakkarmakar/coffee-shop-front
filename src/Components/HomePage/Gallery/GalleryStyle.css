@@ -1,0 +1,22 @@
+.gallery-container {
+    position: relative;
+    margin-bottom: 7%;
+}
+.gallery-header {
+    text-align: center;
+    color: chocolate;
+    margin: 5% 0;
+    font-size: 2rem;
+}
+.gallery-img {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.glry-img {
+    width: 337px;
+    height: 300px;
+    transition: .3ms ease-in-out;
+}
+.glry-img:hover {
+    transform: scale(1.1);
+}
