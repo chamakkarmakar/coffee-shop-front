@@ -11,7 +11,7 @@ const Products = () => {
     },
     {
       "id" : 2,
-      "img" : "https://img.freepik.com/premium-psd/coffee-beans-isolated_328278-274.jpg?w=740",
+      "img" : "https://img.freepik.com/premium-photo/coffee-beans-with-old-wooden-kitchenware_361668-52.jpg?w=740",
       "title" : "coffee bean"
     },
     {
@@ -21,7 +21,7 @@ const Products = () => {
     },
     {
       "id" : 4,
-      "img" : "https://img.freepik.com/premium-psd/coffee-beans-isolated_328278-274.jpg?w=740",
+      "img" : "https://img.freepik.com/premium-photo/coffee-beans-with-old-wooden-kitchenware_361668-52.jpg?w=740",
       "title" : "coffee bean"
     },
   ];
