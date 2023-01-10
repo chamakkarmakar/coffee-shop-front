@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { HiMenu,HiX } from "react-icons/hi";
 import { NavLink } from 'react-router-dom';
-import "./Style.css"
+import "./HeaderStyle.css"
 
 const NavBar = () => {
     const [click, setClick] = useState(false);

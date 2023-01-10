@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { GiCoffeeBeans } from "react-icons/gi";
 import { AiOutlineLeftCircle,AiOutlineRightCircle } from "react-icons/ai";
-import "./Style.css";
+import "./HeaderStyle.css";
 
 const Banner = () => {
   const images = [
